@@ -38,5 +38,7 @@ Out[10]: 20
 
 
 ## 参考链接
-- [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)
-
+- [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)，
+比较详细的一个教程，本demo中所有代码均由此而来，缺失的几个步骤可以参见上文。
+- [官方文档](https://docs.python.org/2/extending/building.html#building)
+- [知乎上一个相关问题的回复](https://www.zhihu.com/question/23003213)
