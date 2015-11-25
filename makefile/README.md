@@ -3,7 +3,9 @@
 ## 参考文章
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)，
 阮一峰写的make教程，通俗易懂
-
+- [sed 简明教程](http://coolshell.cn/articles/9104.html)，
+陈皓写的sed教程，用于实现第二个正则表达式例子
+- [sed 文档及示例](http://man.linuxde.net/sed)
 
 ## 普通
 
