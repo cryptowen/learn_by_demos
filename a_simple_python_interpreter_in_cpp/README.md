@@ -16,6 +16,12 @@ g++ -o py_interpreter py_interpreter.cpp -I/Users/huwenchao/anaconda/include/pyt
 其中`-I`后的内容改为你的Python的include目录，如果不知道可以使用命令`which python`得到一个你的python文件目录，形如
 `/path/to/python_home/bin/python`，则你的python include目录为`/path/to/python_home/include/python2.7`（如果你用的是2.7版本的话，如果不是，请自行修改）。
 
-效果：
+使用效果：
 
 ![](./simple_py_interpreter.gif)
+
+
+## 参考链接
+- [Embedding Python in Another Application](https://docs.python.org/2/extending/embedding.html)，官方文档的解释，比较清晰
+- [EMBEDDING PYTHON – TUTORIAL – PART 1](http://realmike.org/blog/2012/07/08/embedding-python-tutorial-part-1/)
+- [Embedding Python in C/C++: Part I](http://www.codeproject.com/Articles/11805/Embedding-Python-in-C-C-Part-I)
